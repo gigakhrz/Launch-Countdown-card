@@ -6,7 +6,7 @@ const minutesInHtml = document.getElementById("minutes");
 const secondsInHtml = document.getElementById("seconds");
 
 // count down date
-const countDownDate = new Date("June 20, 2023 23:00:59").getTime();
+const countDownDate = new Date("June 21, 2023 23:00:59").getTime();
 
 const updateInHtml = setInterval (() => {
 
